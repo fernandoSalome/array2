@@ -1,0 +1,5 @@
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\Validacao\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\Validacao\bin\Debug\Validacao.dll
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\Validacao\bin\Debug\Validacao.pdb
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\Validacao\obj\Debug\Validacao.dll
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\Validacao\obj\Debug\Validacao.pdb

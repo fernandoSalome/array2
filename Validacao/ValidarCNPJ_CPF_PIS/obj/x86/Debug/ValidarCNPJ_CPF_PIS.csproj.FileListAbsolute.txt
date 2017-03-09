@@ -1,0 +1,11 @@
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\obj\x86\Debug\ValidarCNPJ_CPF_PIS.Form1.resources
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\obj\x86\Debug\ValidarCNPJ_CPF_PIS.Properties.Resources.resources
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\bin\Debug\ValidarCNPJ_CPF_PIS.exe
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\bin\Debug\ValidarCNPJ_CPF_PIS.pdb
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\bin\Debug\Validacao.dll
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\bin\Debug\Validacao.pdb
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\obj\x86\Debug\ValidarCNPJ_CPF_PIS.exe
+C:\Users\Mac\documents\visual studio 2010\Projects\Validacao\ValidarCNPJ_CPF_PIS\obj\x86\Debug\ValidarCNPJ_CPF_PIS.pdb
